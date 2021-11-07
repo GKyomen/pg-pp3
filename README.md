@@ -55,7 +55,7 @@ Destacando as plataformas que contribuiram para a elaboração do projeto:
 ## 💻 Pré-requisitos
 
 Antes de começar, verifique se seu navegador web está devidamente atualizado e habilitado para a execução do WebGL:
-* Por padrão, a maioria dos navegadores dos dispositivos mais atuais suporta excuções em WebGL.
+* Por padrão, a maioria dos navegadores dos dispositivos mais atuais suporta execuções em WebGL.
 * Em caso de dúvidas ou erros, consulte: [Suporte do navegador para WebGL](https://qastack.com.br/superuser/836832/how-can-i-enable-webgl-in-my-browser).
 
 <p align="right"><a href="#top">↑</a></p>
@@ -87,18 +87,18 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/Pedrohme">
-        <img src="https://avatars.githubusercontent.com/u/48974272" width="100px;" alt="Foto do Pedro (Dimitri)"/><br>
-        <sub>
-          <b>Pedro (Dimitri) Mendes</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
       <a href="https://github.com/GKyomen">
         <img src="https://avatars.githubusercontent.com/u/30750834" width="100px;" alt="Foto do Gabriel (Kyomen)"/><br>
         <sub>
           <b>Gabriel (Kyomen) Silva</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Pedrohme">
+        <img src="https://avatars.githubusercontent.com/u/48974272" width="100px;" alt="Foto do Pedro (Dimitri)"/><br>
+        <sub>
+          <b>Pedro (Dimitri) Mendes</b>
         </sub>
       </a>
     </td>

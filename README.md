@@ -40,7 +40,7 @@ Com a intenção de elaborar uma cena animada com objetos tridimensionais, esse 
 
 Desenvolvido em Unity e com algumas renderizações do Blender, o principal desafio inicial do projeto foi entender (desde o básico) como manipular os objetos em cena. A partir disso, com escala e estilização adequada, o passo seguinte foi pensar em como posicioná-los e aplicar algum contexto à visualização.
 
-Ao final desta parte parcial do projeto, a câmera diagonalizada concebe a visualização de todos os objetos e introduz um pouco sobre o futuro decorrer da cena.
+Com a conclusão do projeto, a interação com diferentes câmeras permite uma experiência única; de modo que o usuário pode escolher o que fazer no cenário.
 
 <p align="right"><a href="#top">↑</a></p>
 
@@ -66,6 +66,27 @@ Para executar o projeto e visualizar o conteúdo criado, basta acessar o link de
 
 <p align="right"><a href="#top">↑</a></p>
 
+## 🕹️ Como interagir
+
+Para melhorar a experiência, descubra tudo o que você pode fazer no cenário:
+
+- Para navegar entre as câmeras utilize as teclas numéricas: 
+<img src="https://cdn.discordapp.com/attachments/876802901996097536/914304990250676324/1_Key_Light.png" alt="tecla 1" width="30" heigth="30" style="vertical-align:middle">
+<img src="https://cdn.discordapp.com/attachments/876802901996097536/914304990447816735/2_Key_Light.png" alt="tecla 2" width="30" heigth="30" style="vertical-align:middle">
+<img src="https://cdn.discordapp.com/attachments/876802901996097536/914304990728843334/3_Key_Light.png" alt="tecla 3" width="30" heigth="30" style="vertical-align:middle">
+- Para controlar o veículo utilize as teclas 
+<img src="https://cdn.discordapp.com/attachments/876802901996097536/914305205649178664/W_Key_Light.png" alt="tecla W" width="30" heigth="30" style="vertical-align:middle"> 
+<img src="https://cdn.discordapp.com/attachments/876802901996097536/914305205846282301/A_Key_Light.png" alt="tecla A" width="30" heigth="30" style="vertical-align:middle"> 
+<img src="https://cdn.discordapp.com/attachments/876802901996097536/914305205422682172/S_Key_Light.png" alt="tecla S" width="30" heigth="30" style="vertical-align:middle"> 
+<img src="https://cdn.discordapp.com/attachments/876802901996097536/914305205221339186/D_Key_Light.png" alt="tecla D" width="30" heigth="30" style="vertical-align:middle"> 
+  - Não se esqueça de frear! Utilize o freio de mão na tecla 
+  <img src="https://cdn.discordapp.com/attachments/876802901996097536/914304990925963284/Space_Key_Light.png" alt="tecla espaço" width="50" style="vertical-align:middle">  
+  - Recomendamos que faça isso utilizando a terceira câmera (botão numérico 
+  <img src="https://cdn.discordapp.com/attachments/876802901996097536/914304990728843334/3_Key_Light.png" alt="tecla 3" width="30" heigth="30" style="vertical-align:middle">)
+- Aproveite a física dos objetos! Não deixe que ela leve a Lua.
+
+<p align="right"><a href="#top">↑</a></p>
+
 ## ✔️ Roadmap - Ajustes e melhorias
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
@@ -73,10 +94,10 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] Visualização dos objetos, redimensionandos e posicionandos individualmente.
 - [x] Definição de pelo menos uma câmera.
 - [x] Posicionamento parcialmente contextualizado dos objetos.
-- [ ] Inclusão de movimento aos objetos da imagem.
-- [ ] Atribuição de pelo menos uma dependência de movimento.
-- [ ] Novas projeções de câmeras.
-- [ ] Interações com câmeras e movimentos.
+- [x] Inclusão de movimento aos objetos da imagem.
+- [x] Atribuição de pelo menos uma dependência de movimento.
+- [x] Novas projeções de câmeras.
+- [x] Interações com câmeras e movimentos.
 
 <p align="right"><a href="#top">↑</a></p>
 
